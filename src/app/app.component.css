@@ -1,0 +1,9 @@
+.board {
+  height: 100%;
+  width: 100%;
+  background: transparent;
+  color: black;
+  font-size: 1rem;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
